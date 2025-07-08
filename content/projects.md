@@ -14,10 +14,10 @@ sections:
       title: Selected Projects
       text: Stay tuned for highlights of some of my favorite projects. 
       filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+      #  folders:
+     #     - project
+  #  design:
+  #    view: article-grid
+  #    fill_image: false
+ #     columns: 3
 ---
