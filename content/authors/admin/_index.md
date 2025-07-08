@@ -57,34 +57,27 @@ work:
     company_logo: ''
     date_start: 2024-07-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
   - position: Senior Data Analyst
     company_name: Social Policy Institute, WashU
     company_url: ''
     company_logo: ''
     date_start: 2021-08-01
     date_end: 2024-06-30
-    summary: |
-      Responsibilities include:
-      - Data management including collection, cleaning, coding
-      - Data analysis, especially quantitative methodologies
-      - Academic writing of manuscripts, research briefs, technical reports
-  
+
   - position: Grants Specialist
     company_name: Saint Louis University
     company_url: ''
     company_logo: ''
     date_start: 2020-08-01
     date_end: 2021-07-31
-    summary: |
-      Responsibilities include:
-      - Manage all aspects of the pre-award process
-      - Create budgets and budget justifications for grant proposals
-      - Coordinate PI and federal funding agency 
+
+   - position: Program Coordinator
+    company_name: Saint Louis University
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-03-01
+    date_end: 2020-07-31
 
 languages:
   - name: English
