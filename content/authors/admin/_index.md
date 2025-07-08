@@ -53,7 +53,7 @@ interests:
   - Spatial Statistics
 
 education:
-  - area: PhD {ublic and Social Policy, Concentration: Geospatial Analysis
+  - area: PhD Public and Social Policy, Concentration: Geospatial Analysis
     institution: Saint Louis University
     date_start: 2016-01-01
     date_end: 2020-12-31
