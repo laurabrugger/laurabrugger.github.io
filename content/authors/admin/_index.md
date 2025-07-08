@@ -76,7 +76,7 @@ work:
     date_start: 2020-08-01
     date_end: 2021-07-31
 
-   - position: Program Coordinator
+  - position: Program Coordinator
     company_name: Saint Louis University
     company_url: ""
     company_logo: ""
