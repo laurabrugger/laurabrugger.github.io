@@ -55,8 +55,8 @@ education:
     date_start: 2007-08-20
     date_end: 2010-12-20
 
-work:
-  - position: Assistant Research Professor
+work:  
+- position: Assistant Research Professor
     company_name: Washington University in St. Louis
     company_url: ""
     company_logo: ""
