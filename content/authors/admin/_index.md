@@ -24,7 +24,7 @@ role: Assistant Research Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: WashU
+  - name: Washington University in St. Louis
     url: ''
 
 # Social network links
@@ -47,13 +47,8 @@ interests:
 
 education:
   - area: PhD Public and Social Policy
-    institution: Saint Louis University
-    
   - area: MA Sociology 
-    institution: Saint Louis University
-
   - area: BA Psychology, Spanish
-    institution: University of Nebraska-Lincoln
 
 work:
   - position: Assistant Research Professor
@@ -75,9 +70,21 @@ work:
     date_end: 2024-06-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data management including collection, cleaning, coding
+      - Data analysis, especially quantitative methodologies
+      - Academic writing of manuscripts, research briefs, technical reports
+  
+  - position: Grants Specialist
+    company_name: Saint Louis University
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-08-01
+    date_end: 2021-07-31
+    summary: |
+      Responsibilities include:
+      - Manage all aspects of the pre-award process
+      - Create budgets and budget justifications for grant proposals
+      - Coordinate PI and federal funding agency 
 
 languages:
   - name: English
