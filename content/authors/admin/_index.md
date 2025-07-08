@@ -54,14 +54,13 @@ education:
   - area: BA Psychology, Spanish
     date_start: 2007-08-20
     date_end: 2010-12-20
-
-work:  
-- position: Assistant Research Professor
+ 
+work:
+  - position: Assistant Research Professor
     company_name: Washington University in St. Louis
-    company_url: ""
-    company_logo: ""
     date_start: 2024-07-01
-    date_end: ""
+    date_end: Present
+
 
   - position: Senior Data Analyst
     company_name: Social Policy Institute, Washington University in St. Louis
