@@ -57,7 +57,7 @@ education:
 
 work:
   - position: Assistant Research Professor
-    company_name: Washington University in St. Louis
+    company_name: WashU
     company_url: ""
     company_logo: ""
     date_start: 2024-07-01
