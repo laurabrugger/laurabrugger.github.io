@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-I’m an environmental research scientist focused on how humans and the environment shape one another. I’m especially interested in how we can create communities where both people and nature can thrive and support one another in the process.
+      I’m an environmental research scientist focused on how humans and the environment shape one another. I’m especially interested in how we can create communities where both people and nature can thrive and support one another in the process.
 
-My work brings together data and community perspectives to explore how climate resilience and environmental justice can create healthier, more equitable communities
+      My work brings together data and community perspectives to explore how climate resilience and environmental justice can create healthier, more equitable communities.
         
     design:
       columns: '1'
