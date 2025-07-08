@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: [https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-202503.pdf]
+        url: [Laura Brugger CV (PDF)](https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-202503.pdf)
     design:
       css_class: dark
       background:
