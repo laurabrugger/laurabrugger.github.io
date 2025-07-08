@@ -46,8 +46,14 @@ interests:
 
 education:
   - area: PhD Public and Social Policy
+    date_start: 2020-01-01
+    date_end: 2024-05-18
   - area: MA Sociology
+    date_start: 2017-08-20
+    date_end: 2019-12-20
   - area: BA Psychology, Spanish
+    date_start: 2007-08-20
+    date_end: 2010-12-20
 
 work:
   - position: Assistant Research Professor
@@ -58,11 +64,25 @@ work:
     date_end: ""
 
   - position: Senior Data Analyst
-    company_name: Social Policy Institute, WashU
+    company_name: Social Policy Institute, Washington University in St. Louis
     company_url: ""
     company_logo: ""
     date_start: 2021-08-01
     date_end: 2024-06-30
+
+  - position: Grant Specialist
+    company_name: Saint Louis University
+    company_url: ""
+    company_logo: ""
+    date_start: 2020-08-01
+    date_end: 2021-07-31
+
+   - position: Program Coordinator
+    company_name: Saint Louis University
+    company_url: ""
+    company_logo: ""
+    date_start: 2015-03-01
+    date_end: 2020-07-31
 ---
 
 
