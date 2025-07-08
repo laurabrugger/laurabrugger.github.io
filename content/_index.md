@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+I’m an environmental research scientist focused on how humans and the environment shape one another. I’m especially interested in how we can create communities where both people and nature can thrive and support one another in the process.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+My work brings together data and community perspectives to explore how climate resilience and environmental justice can create healthier, more equitable communities
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
