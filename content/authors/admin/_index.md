@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Laura Brugger (she/her) is a researcher in the Brown School at Washington University in St. Louis and in the Center for Social Development. Laura’s work centers on the interconnectedness of environmental systems and human wellbeing. Her research investigates socio-environmental issues, particularly the interaction of natural and human systems, and explores pathways to strengthen both ecological resilience and social equity. She has studied spatial disparities in climate-related issues and, most recently, examined how disasters, risk, and resilience relate to voting outcomes.
