@@ -3,7 +3,7 @@
 title: Laura Brugger
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Laura
@@ -11,7 +11,7 @@ last_name: Brugger
 
 # Status emoji
 status:
-  icon: ''
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,20 +25,19 @@ role: Assistant Research Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Washington University in St. Louis
-    url: ''
+    url: ""
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:laura.brugger@wustl.edu'
+    url: "mailto:laura.brugger@wustl.edu"
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lbrugger2/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com//citations?user=oTpfHpYAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=oTpfHpYAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0003-4567-8467
+    url: https://orcid.org/0000-0003-4567-8467
 
 interests:
   - Environmental Research
@@ -47,25 +46,25 @@ interests:
 
 education:
   - area: PhD Public and Social Policy
-  - area: MA Sociology 
+  - area: MA Sociology
   - area: BA Psychology, Spanish
 
- work:
+work:
   - position: Assistant Research Professor
     company_name: Washington University in St. Louis
-    company_url: ''
-    company_logo: ''
+    company_url: ""
+    company_logo: ""
     date_start: 2024-07-01
-    date_end: ''
-    
+    date_end: ""
+
   - position: Senior Data Analyst
     company_name: Social Policy Institute, WashU
-    company_url: ''
-    company_logo: ''
+    company_url: ""
+    company_logo: ""
     date_start: 2021-08-01
     date_end: 2024-06-30
-
 ---
+
 
 ## About Me
 
