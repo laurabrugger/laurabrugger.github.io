@@ -17,7 +17,7 @@ publication: '*Available at SSRN 5294109*'
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5294109
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5294109
 url_code: ''
 url_dataset: ''
 url_poster: ''
