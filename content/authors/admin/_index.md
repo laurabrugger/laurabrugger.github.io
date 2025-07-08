@@ -49,7 +49,6 @@ profiles:
 interests:
   - Environmental Research
   - Nature Inspired Solutions
-  - Green/Blue Infrastructure
   - Spatial Statistics
 
 education:
