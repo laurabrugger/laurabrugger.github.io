@@ -59,7 +59,7 @@ work:
   - position: Assistant Research Professor
     company_name: Washington University in St. Louis
     date_start: 2024-07-01
-    date_end: Present
+    date_end: ""
   - position: Senior Data Analyst
     company_name: Social Policy Institute, Washington University in St. Louis
     company_url: ""
