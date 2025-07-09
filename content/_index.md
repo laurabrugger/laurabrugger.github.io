@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m an environmental research scientist focused on how humans and the environment shape one another. I’m especially interested in how we can create communities where both people            and nature can thrive and support one another in the process.
-
-        My work brings together data and community perspectives to explore how climate resilience and environmental justice can create healthier, more equitable communities.
+        I am an environmental research scientist focused on the dynamic relationship between people and the planet. My work centers on how we can build communities where human well-being            and environmental health reinforce one another. My research vision is to use rigorous, actionable science to develop strategies that help both people and nature thrive amid a                changing climate.
         
     design:
       columns: '1'
