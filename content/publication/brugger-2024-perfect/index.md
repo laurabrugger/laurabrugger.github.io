@@ -10,7 +10,7 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
 
-date: "2024-01-01"
+date: "2023-11-09"
 doi: ""
 
 publishDate: "2025-07-08T22:00:27.113639Z"
@@ -67,7 +67,7 @@ url_video: ""
 
 image:
   filename: "closing-pic.jpg"
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 
