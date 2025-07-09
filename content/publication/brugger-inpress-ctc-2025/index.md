@@ -7,9 +7,10 @@ authors:
 - Elaine Maag
 - Stephen Roll
 - Jennifer Lee
-date: in press-01-01
+date: "2025-01-01"
 publishDate: '2025-07-09T23:48:28.976074Z'
 publication_types:
 - article-journal
 publication: '*SN Business and Economics*'
+in_press: true
 ---
