@@ -56,7 +56,7 @@ tags: []
 
 featured: true
 
-url_pdf: "https://docs.google.com/viewer?url=https://appam.confex.com/appam/2023/mediafile/ExtendedAbstract/Paper48609/appam-manuscript-v3.pdf"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""
