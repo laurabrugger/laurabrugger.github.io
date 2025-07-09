@@ -56,14 +56,14 @@ tags: []
 
 featured: true
 
-url_pdf: ""
+url_pdf: "https://docs.google.com/viewer?url=https://appam.confex.com/appam/2023/mediafile/ExtendedAbstract/Paper48609/appam-manuscript-v3.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://github.com/HugoBlox/hugo-blox-builder"
-url_video: "https://youtube.com"
+url_source: ""
+url_video: ""
 
 image:
   filename: "closing-pic.jpg"
