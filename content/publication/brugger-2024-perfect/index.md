@@ -66,6 +66,7 @@ url_source: "https://github.com/HugoBlox/hugo-blox-builder"
 url_video: "https://youtube.com"
 
 image:
+  filename: "closing-pic.jpg"
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
