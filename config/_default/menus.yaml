@@ -16,4 +16,7 @@ main:
   - name: Relevant Experience
     url: experience/
     weight: 20
+  - name: About Me
+    url: about/
+    weight: 20
  
