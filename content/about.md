@@ -12,7 +12,7 @@ sections:
   - block: hero
     content:
       title: "About Me"
-      text: "I grew up in Nebraska..."
+      text: "Forthcoming"
       image: media/laura.jpg
     design:
       background:
