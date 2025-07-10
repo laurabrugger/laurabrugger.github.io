@@ -1,6 +1,6 @@
 ---
 title: "Midwest Climate Collaborative Green Infrastructure Group"
-date: 2025-04-01
+date: 2025-02-01
 external_link: https://midwestclimatecollaborative.wustl.edu/
 draft: false
 tags:
