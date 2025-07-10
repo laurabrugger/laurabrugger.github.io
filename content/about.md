@@ -8,8 +8,12 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username: 
-      text: "forthcoming"
+      username:  # leave blank to avoid auto author profile
+      text: |
+        fORTHCOMING
+      image:
+        filename: your-photo.jpg   # put your photo file here, in static/media or assets/media
+        alt: "Photo of Laura Brugger"
     design:
       css_class: dark
       background:
