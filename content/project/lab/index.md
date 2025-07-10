@@ -5,7 +5,7 @@ external_link: https://environment.washu.edu/brugger-disasters-and-democracy-stu
 draft: false
 tags:
 image: 
-  filename: ""
+  filename: "vote.png"
 
 ---
 
