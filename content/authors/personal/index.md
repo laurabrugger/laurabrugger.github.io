@@ -21,6 +21,8 @@ highlight_name: true
 
 # Role/position/tagline
 
+photo: uploads/volc2.jpg
+
 
 ---
 
