@@ -80,6 +80,13 @@ work:
     company_logo: ""
     date_start: 2015-03-01
     date_end: 2020-07-31
+    
+  - position: Program Manager
+    company_name: The Covering House
+    company_url: ""
+    company_logo: ""
+    date_start: 2011-12-31
+    date_end: 2015-01-31
 ---
 
 
