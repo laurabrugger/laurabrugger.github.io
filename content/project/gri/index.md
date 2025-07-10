@@ -9,6 +9,6 @@ image:
 
 ---
 
-Spatial analysis of the impact of Hurricane Helene on voter turnout
+Spatial analysis of the impact of Hurricane Helene on voter turnout.
 
 <!--more-->
