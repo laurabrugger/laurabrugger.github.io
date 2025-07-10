@@ -1,15 +1,15 @@
 ---
-title: "Disasters and Democracy"
-date: 2025-06-01
-external_link: https://environment.washu.edu/brugger-disasters-and-democracy-study/
+title: "Democratic Infrastructure and Political Inequality After Disaster"
+date: 2025-07-01
+external_link: 
 draft: false
 tags:
 image: 
-  filename: "vote.jpg"
+  filename: "helene2.jpg"
 
 ---
 
-Polling place changes following Hurricane Helene
+Propsoed work to investigate democratic infrastructure, severe weather, and civic engagement
 
 <!--more-->
 
