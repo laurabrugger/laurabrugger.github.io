@@ -9,7 +9,7 @@ image:
 
 ---
 
-Polling place changes following Hurricane Helene. 
+GIS study to investigate polling place changes and transportation disruptions around Hurricane Helene. 
 
 <!--more-->
 
