@@ -21,7 +21,6 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Research Professor
 
 
 ---
