@@ -6,7 +6,7 @@ authors:
   - Pedro Spindler-Ruiz
   - Ness Sandoval
 
-date: "2024-01-01"
+date: "2024-11-21"
 
 publishDate: "2025-07-10T00:17:27.579171Z"
 
