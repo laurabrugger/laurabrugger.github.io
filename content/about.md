@@ -7,15 +7,19 @@ menu:
   main:
     weight: 14
 
-design:
-  spacing: '5rem'
-
-# Page sections
 sections:
+  - block: hero
+    content:
+      title: "About Me"
+      text: "A bit more about my background, interests, and what brought me to this work."
+      image: my-photo.jpg
+    design:
+      background: primary
+      image_position: right
+      image_shape: circle
+      alignment: left
   - block: collection
     content:
-      title: About Me
-      text: forthcoming
       filters:
         folders:
           - about
@@ -24,4 +28,3 @@ sections:
       fill_image: false
       columns: 1
 ---
-
