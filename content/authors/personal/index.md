@@ -7,6 +7,6 @@ photo: uploads/volc.jpg
 ---
 
 
-## About ME
+## About Me
 
 Forthcoming
