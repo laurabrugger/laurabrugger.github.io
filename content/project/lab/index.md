@@ -1,15 +1,15 @@
 ---
-title: "Democratic Infrastructure and Political Inequality After Disaster"
-date: 2025-07-01
+title: "Disasters and Democracy"
+date: 2025-06-01
 external_link: 
 draft: false
 tags:
 image: 
-  filename: "helene2.jpg"
+  filename: "vote.jpg"
 
 ---
 
-Propsoed work to investigate democratic infrastructure, severe weather, and civic engagement
+Polling place changes following Hurricane Helene. 
 
 <!--more-->
 
