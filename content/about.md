@@ -1,7 +1,4 @@
 ---
-title: "About Me"
-type: landing
-
 menu:
   main:
     name: "About Me"
@@ -14,7 +11,7 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username: admin
+      username: ""
       text: "forthcoming"
     design:
       css_class: dark
