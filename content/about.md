@@ -6,9 +6,9 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: about
+  - block: resume-biography-3
     content:
-      username:  # leave blank to avoid auto author profile
+      username:  personal # leave blank to avoid auto author profile
       text: |
         FORTHCOMING
       image:
