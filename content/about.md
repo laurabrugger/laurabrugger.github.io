@@ -6,11 +6,11 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: about
     content:
       username:  # leave blank to avoid auto author profile
       text: |
-        fORTHCOMING
+        FORTHCOMING
       image:
         filename: your-photo.jpg   # put your photo file here, in static/media or assets/media
         alt: "Photo of Laura Brugger"
