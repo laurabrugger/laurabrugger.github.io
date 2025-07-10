@@ -12,7 +12,7 @@ sections:
       text: |
         FORTHCOMING
       image:
-        filename: volc2.jpg   # put your photo file here, in static/media or assets/media
+        filename: static/uploads/volc2.jpg   # put your photo file here, in static/media or assets/media
         alt: "Photo of Laura Brugger"
     design:
       css_class: dark
