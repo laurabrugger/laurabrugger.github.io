@@ -13,4 +13,5 @@ publication_types:
 - article-journal
 publication: '*SN Business and Economics*'
 in_press: true
+draft: true
 ---
