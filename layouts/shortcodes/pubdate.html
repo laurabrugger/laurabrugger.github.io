@@ -1,1 +1,6 @@
+{{ if .Page.Params.in_press }}
+  In Press
+{{ else }}
+  {{ .Page.Date.Format site.Params.locale.date_format }}
+{{ end }}
 
