@@ -6,7 +6,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-2
+  - block: resume-biography-3
     content:
       username: personal
     design:
