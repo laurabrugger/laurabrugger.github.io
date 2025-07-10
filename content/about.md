@@ -1,9 +1,6 @@
 ---
-menu:
-  main:
-    name: "About Me"
-    identifier: "about-personal"
-    weight: 14
+title: "About Me"
+type: landing
 
 design:
   spacing: "6rem"
@@ -11,7 +8,7 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username: ""
+      username: admin
       text: "forthcoming"
     design:
       css_class: dark
