@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Select Projects
       text: I like creating maps that reveal the dynamic stories between people and the planet. Here are some projects I’m most excited about and currently working on—stay tuned for                   results!
       filters:
         folders:
