@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I like making maps to help tell stories about how the people and planet impact one another. These are some projects I’m most excited about and currently working on—stay tuned for              results!
+      text: I like creating maps that reveal the dynamic stories between people and the planet. These are some projects I’m most excited about and currently working on—stay tuned for                   results!
       filters:
         folders:
           - project
