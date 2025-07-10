@@ -1,6 +1,6 @@
 ---
 title: "Living Earth Collaborative Water Working Group"
-date: 2025-04-01
+date: 2025-05-01
 external_link: https://livingearthcollaborative.wustl.edu/items/water/
 draft: false
 tags:
