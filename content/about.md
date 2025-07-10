@@ -8,12 +8,10 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username:  personal # leave blank to avoid auto author profile
+      username:  personal 
       text: |
         FORTHCOMING
-      image:
-        filename: uploads/volc2.jpg   # put your photo file here, in static/media or assets/media
-        alt: "Photo of Laura Brugger"
+
     design:
       css_class: dark
       background:
