@@ -4,7 +4,8 @@ date: 2025-04-01
 external_link: https://geospatial.wustl.edu/announcing-the-2025-seed-grant-recipients/
 draft: false
 tags:
-image: helene.jpg
+image: 
+  filename: "helene.jpg"
 
 ---
 
