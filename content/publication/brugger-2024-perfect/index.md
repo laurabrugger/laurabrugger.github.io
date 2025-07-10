@@ -50,7 +50,7 @@ abstract: |
   changing climate.
 
 summary: >
-  This study examines how disasters, social vulnerability, and environmental resilience are spatially related to changes in voter turnout between the 2016 and 2020 U.S. Presidential Elections, revealing geographic variation in these dynamics and offering insights for protecting voting rights in the face of climate change.
+  This paper investigates how disasters, social vulnerability, and environmental resilience are spatially related to changes in voter turnout between the 2016 and 2020 U.S. Presidential Elections, revealing geographic variation in these dynamics and offering insights for protecting voting rights in the face of climate change.
 
 tags: []
 
