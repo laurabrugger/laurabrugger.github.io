@@ -1,5 +1,5 @@
 ---
-title: 'About Me'
+title: "About Me"
 type: landing
 
 menu:
@@ -8,16 +8,23 @@ menu:
     identifier: "about-personal"
     weight: 14
 
+design:
+  spacing: "6rem"
+
 sections:
-  - block: hero
+  - block: resume-biography-3
     content:
-      title: "About Me"
-      text: "Forthcoming"
-      image: media/laura.jpg
+      username: admin
+      text: "forthcoming"
     design:
+      css_class: dark
       background:
-        color: primary
-      image_position: right
-      image_shape: circle
-      alignment: left
+        color: black
+        image:
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 ---
