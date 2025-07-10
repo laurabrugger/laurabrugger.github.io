@@ -83,7 +83,7 @@ work:
 ---
 
 
-## About Me
+## About My Work
 
 Dr. Laura Brugger (she/her) is a researcher in the Brown School at Washington University in St. Louis. Laura’s work centers on the interconnectedness of environmental and human wellbeing. Her research investigates socio-environmental issues, particularly the interaction of natural and human systems, and explores pathways to strengthen both ecological resilience and social equity. She has studied spatial disparities in climate-related issues and, most recently, examined how disasters, risk, and resilience relate to voting outcomes.
 
