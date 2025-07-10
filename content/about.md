@@ -6,12 +6,9 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography-2
     content:
-      username:  personal 
-      text: |
-        FORTHCOMING
-
+      username: personal
     design:
       css_class: dark
       background:
@@ -23,4 +20,5 @@ sections:
           size: cover
           position: center
           parallax: false
+
 ---
