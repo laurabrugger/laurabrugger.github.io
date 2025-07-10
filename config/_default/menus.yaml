@@ -12,11 +12,11 @@ main:
     weight: 11
   - name: Projects
     url: projects/
-    weight: 20
+    weight: 12
   - name: Relevant Experience
     url: experience/
-    weight: 20
+    weight: 13
   - name: About Me
     url: about/
-    weight: 20
+    weight: 14
  
