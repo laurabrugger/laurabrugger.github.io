@@ -39,7 +39,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Works
       filters:
         folders:
           - publication
