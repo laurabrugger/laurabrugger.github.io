@@ -40,9 +40,9 @@ profiles:
     url: https://orcid.org/0000-0003-4567-8467
 
 interests:
-  - Environmental Research
-  - Nature Inspired Solutions
-  - Spatial Statistics
+  - Applied Environmental Science
+  - Climate Governance and Policy
+  - Equitable Human–Environment Systems
 
 education:
   - area: PhD Public and Social Policy
