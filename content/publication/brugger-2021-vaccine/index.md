@@ -8,7 +8,7 @@ authors:
 date: '2021-11-01'
 publishDate: '2025-07-31T16:58:51.012021Z'
 publication_types:
-- report
+- Research Brief
 abstract: |
   As rates of vaccination have slowed, concerns are growing about how
   to increase vaccine uptake among those who are vaccine hesitant,
