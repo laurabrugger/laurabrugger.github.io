@@ -10,7 +10,7 @@ publishDate: '2025-07-31T16:58:50.974829Z'
 publication_types:
 - report
 abstract: |
-  Project Community Connections, Inc. (PCCI) initiated a groundbreaking cash transfer program
+    Project Community Connections, Inc. (PCCI) initiated a groundbreaking cash transfer program
   in 2022 to address the multifaceted challenges faced by individuals experiencing homelessness in
   Atlanta, GA. This innovative program distributed $400 monthly for 12 months to a randomly
   selected group of individuals experiencing housing insecurity, alongside essential rental, utility
