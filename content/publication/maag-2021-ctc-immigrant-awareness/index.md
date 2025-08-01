@@ -9,6 +9,8 @@ publication_types:
 - Blog
 abstract: |
     Immigrant parents are less likely to have heard about the expanded child tax credit (CTC) than parents born in the United States, according to a survey conducted in early July. They’re        more likely to see the credit as a way to invest in their children’s education and pay for child care and health care.
-url_pdf:
+links:
+- name: URL
+- url: 
   https://taxpolicycenter.org/taxvox/immigrant-parents-are-less-aware-child-tax-credit-us-born-parents-and-more-likely-plan-use-it
 ---
