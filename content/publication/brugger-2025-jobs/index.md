@@ -6,7 +6,7 @@ authors:
 - M. Despard
 - S. Miller
 - S. Roll
-date: '2025-06-24'
+date: '2025-06-29'
 publishDate: '2025-07-31T16:58:50.951772Z'
 publication_types:
 - research brief
@@ -15,5 +15,5 @@ abstract: |
 links:
 - name: URL
   url: 
-    https://openscholarship.wustl.edu/csd_research/967/
+    https://openscholarship.wustl.edu/csd_research/967/](https://csd.wustl.edu/25-37/
 ---
