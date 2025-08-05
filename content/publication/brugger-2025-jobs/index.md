@@ -15,5 +15,5 @@ abstract: |
 links:
 - name: URL
   url: 
-    https://openscholarship.wustl.edu/csd_research/967/](https://csd.wustl.edu/25-37/
+    https://csd.wustl.edu/25-37/
 ---
