@@ -39,7 +39,10 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-4567-8467
 
-Interests: <span style="white-space: nowrap;">Equitable Climate & Conservation Policy &nbsp;&nbsp;|&nbsp;&nbsp; Social–Ecological Resilience & Adaptation &nbsp;&nbsp;|&nbsp;&nbsp; Community-Based Science</span>
+Interests:
+  - Equitable Climate & Conservation Policy
+  - Social–Ecological Resilience & Adaptation
+  - Community-Based Science
 
 
 education:
