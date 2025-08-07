@@ -9,6 +9,6 @@ image:
 
 ---
 
-Proposed work to investigate election infrastructure and administrative burden amid severe weather events. 
+Study to investigate election infrastructure and administrative burden amid severe weather events. 
 
 <!--more-->
