@@ -93,6 +93,6 @@ work:
 
 ## About My Work
 
-Dr. Laura Brugger (she/her) is a researcher at the Brown School, Washington University in St. Louis. Her work focuses on the interconnectedness of natural and human systems in the context of climate change. She explores socio-ecological resilience and adaptation, climate and conservation policy, and community-based research to address climate risks and advance equity. Most recently, Laura has investigated spatial disparities in climate vulnerability and resilience, as well as how disasters and environmental risks affect communities and democratic participation.
+Dr. Laura Brugger (she/her) is a researcher at the Brown School, Washington University in St. Louis. Her work examines the interconnectedness of natural and human systems in the context of climate change, focusing on socio-ecological resilience, adaptation, and the integration of climate and conservation policy. She employs spatial analysis to inform equitable, community-driven strategies that address climate risks and promote environmental justice. Most recently, Laura has investigated spatial disparities in climate vulnerability and resilience, as well as how disasters and environmental risks affect communities and democratic participation.
 
 
