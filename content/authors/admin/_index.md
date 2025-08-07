@@ -40,9 +40,9 @@ profiles:
     url: https://orcid.org/0000-0003-4567-8467
 
 interests:
-  - Applied Environmental Science
-  - Climate Governance and Policy
-  - Equitable Human–Environment Systems
+  - Equitable Climate and Conservation Policy
+  - Social–Ecological Resilience and Adaptation
+  - Community-Based and Participatory Science
 
 education:
   - area: PhD Public and Social Policy
