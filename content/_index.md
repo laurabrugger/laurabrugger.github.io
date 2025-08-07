@@ -32,7 +32,7 @@ sections:
       title: '🌍 My Research'
       subtitle: ''
       text: |-
-        I am an environmental research scientist focused on the dynamic relationship between people and the planet. My work centers on how we can build communities where human well-being and environmental health reinforce one another. My research vision is to use rigorous, actionable science to develop strategies that help both people and nature thrive amid a changing climate.
+        I am a socio-environmental scientist focused on the dynamic relationship between people and the planet. My work examines how human well-being and environmental health can be mutually reinforcing, especially in the face of climate change. I use rigorous, actionable research to develop equitable, science-based strategies that help both communities and ecosystems thrive.
     design:
       columns: '1'
 
