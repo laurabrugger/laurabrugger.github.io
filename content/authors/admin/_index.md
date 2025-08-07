@@ -41,7 +41,7 @@ profiles:
 
 interests:
   - Equitable Climate & Conservation Policy
-  - Social–Ecological Resilience & Adaptation
+  - Socio–Ecological Resilience/Adaptation
   - Community-Based Science
 
 
