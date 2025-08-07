@@ -5,7 +5,8 @@ external_link:
 draft: false
 tags:
 image: 
-  filename: "helene2.jpg"
+  filename: "noaa.jpg"
+  caption: *Image Source: NOAA *
 
 ---
 
