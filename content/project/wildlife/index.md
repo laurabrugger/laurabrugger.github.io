@@ -7,7 +7,7 @@ draft: false
 tags:
 image: 
   filename: "coyote.jpg"
-  caption: "*Image source: City of Fenton, Missouri, “Urban Wildlife” page — [https://www.fentonmo.org/1170/Urban-Wildlife](https://www.fentonmo.org/1170/Urban-Wildlife)*"
+  caption: "*Image source: [City of Fenton, Missouri](https://www.fentonmo.org/1170/Urban-Wildlife)*"
 
 ---
 
