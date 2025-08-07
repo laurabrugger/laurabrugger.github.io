@@ -7,6 +7,7 @@ draft: false
 tags:
 image: 
   filename: "coyote.jpg"
+  caption: "Photo by Jane Doe"
 
 ---
 
