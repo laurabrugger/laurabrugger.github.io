@@ -6,7 +6,7 @@ draft: false
 tags:
 image: 
   filename: "noaa.jpg"
-  caption: *Image Source: NOAA*
+  caption: "*Image Source: NOAA*"
 
 ---
 
