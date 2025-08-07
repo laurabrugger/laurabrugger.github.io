@@ -40,8 +40,8 @@ profiles:
     url: https://orcid.org/0000-0003-4567-8467
 
 interests:
-  - Equitable Climate/Conservation Policy
-  - Socio–Ecological Resilience/Adaptation
+  - Equitable Climate Policy
+  - Socio–Ecological Resilience
   - Community-Based Science
 
 
