@@ -1,7 +1,7 @@
 
 ---
 title: "Urban Wildlife and Climate Disruptions"
-date: 2025-02-01
+date: 2025-07-01
 external_link: 
 draft: false
 tags:
