@@ -19,18 +19,6 @@ This emerging project aims to investigate how extreme weather events and climate
 
 This exploratory mapping investigates how St. Louis residents engaged with nature via iNaturalist observations before and after major weather disruptions, focusing on the May 2025 tornado as a case study. Since iNaturalist records are community-generated, they reflect patterns of human activity and access to biodiversity. By analyzing changes in observation density, reported taxa, and observer locations, this work examines how climate disruptions shape urban residents’ interactions with nature and highlight issues of equitable access. See below for select visualizations. *Note: These early visualizations are intended as heuristic tools—not formal analysis—as a foundation for future spatial modeling and field work.*
 
-#### iNaturalist Observation Density in St. Louis: January 2025
-
-<iframe src="/maps/heatmap_2025_01.html" width="100%" height="600" style="border:none;"></iframe>
-
-#### iNaturalist Observation Density in St. Louis: February 2025
-
-<iframe src="/maps/heatmap_2025_02.html" width="100%" height="600" style="border:none;"></iframe>
-
-#### iNaturalist Observation Density in St. Louis: March 2025
-
-<iframe src="/maps/heatmap_2025_03.html" width="100%" height="600" style="border:none;"></iframe>
-
 #### iNaturalist Observation Density in St. Louis: April 2025
 
 <iframe src="/maps/heatmap_2025_04.html" width="100%" height="600" style="border:none;"></iframe>
