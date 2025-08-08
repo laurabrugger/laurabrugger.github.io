@@ -1,6 +1,6 @@
 
 ---
-title: "Urban Wildlife and Climate Disruptions"
+title: "Nature, Climate, and Community Resilience"
 date: 2025-07-01
 external_link: 
 draft: false
