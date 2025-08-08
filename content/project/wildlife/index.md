@@ -15,8 +15,14 @@ This emerging project aims to investigate how extreme weather events and climate
 
 <!--more-->
 
-{{< figure src="" title="Coyote in urban St. Louis" >}}
+## April 2025 Heatmap
 
-{{< figure src="" title="Coyote in urban St. Louis" >}}
+<iframe src="/maps/heatmap_2025_04.html" width="100%" height="600" style="border:none;"></iframe>
 
-{{< figure src="" title="Coyote in urban St. Louis" >}}
+## May 2025 Heatmap
+
+<iframe src="/maps/heatmap_2025_05.html" width="100%" height="600" style="border:none;"></iframe>
+
+## June 2025 Heatmap
+
+<iframe src="/maps/heatmap_2025_06.html" width="100%" height="600" style="border:none;"></iframe>
