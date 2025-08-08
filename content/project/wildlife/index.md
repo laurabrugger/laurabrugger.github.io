@@ -17,20 +17,24 @@ This emerging project aims to investigate how extreme weather events and climate
 
 ## Preliminary Exploration: iNaturalist Heatmaps
 
-This exploratory mapping investigates how St. Louis residents engaged with nature via iNaturalist observations before and after major weather disruptions, focusing on the May 2025 tornado as a case study. Since iNaturalist records are community-generated, they reflect patterns of human activity and access to biodiversity. By analyzing changes in observation density, reported taxa, and observer locations, this work examines how climate disruptions shape urban residents’ interactions with nature and highlight issues of equitable access. See below for select visualizations. *Note: These early visualizations are intended as heuristic tools—not formal analysis—as a foundation for future spatial modeling and field work.*
+This exploratory mapping investigates how St. Louis residents engaged with nature via [iNaturalist](https://www.inaturalist.org/observations) observations before and after major weather disruptions, focusing on the [May 16, 2025 tornado](https://www.weather.gov/lsx/05_16_2025) as a case study. Since iNaturalist records are community-generated, they reflect patterns of human activity and access to biodiversity. By analyzing changes in observation density, reported taxa, and observer locations, this work examines how climate disruptions shape urban residents’ interactions with nature and highlight issues of equitable access. See below for select visualizations. *Note: These early visualizations are intended as heuristic tools, not formal analysis, as a foundation for future spatial modeling and field work.*
 
-#### iNaturalist Observation Density in St. Louis: April 2025
+#### iNaturalist Observation Density in St. Louis: April 2025 (Pre-Tornado)
 
 <iframe src="/maps/heatmap_2025_04.html" width="100%" height="600" style="border:none;"></iframe>
 
-#### iNaturalist Observation Density in St. Louis: May 2025
+#### iNaturalist Observation Density in St. Louis: May 2025 (Month of Tornado Event)
 
 <iframe src="/maps/heatmap_2025_05.html" width="100%" height="600" style="border:none;"></iframe>
 
-#### May iNaturalist Observations and May 16 Tornado Path
+#### May 2025 Tornado Path & iNaturalist Observations
 
 <iframe src="/maps/may_2025_tornado_map.html" width="100%" height="600" style="border:none;"></iframe>
 
-#### iNaturalist Observation Density in St. Louis: June 2025
+#### iNaturalist Observation Density in St. Louis: June 2025 (Post-Tornado)
 
 <iframe src="/maps/heatmap_2025_06.html" width="100%" height="600" style="border:none;"></iframe>
+
+### Next Steps
+
+Future work will incorporate additional environmental, socioeconomic, and ecological data to assess how extreme weather events affect urban biodiversity and community resilience, with a focus on equitable access to nature. This project aims to support urban conservation initiatives that benefit both ecosystems and the communities that depend on them.
