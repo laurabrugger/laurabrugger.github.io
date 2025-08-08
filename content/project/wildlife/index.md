@@ -21,7 +21,6 @@ This exploratory mapping investigates how St. Louis residents engaged with natur
 
 We focus on the [May 16, 2025 tornado](https://www.weather.gov/lsx/05_16_2025) as a case study of a significant weather disruption. Since iNaturalist data reflect both biodiversity presence and human observation patterns, analyzing changes in observation density, reported taxa, and observer locations provides insights into how climate events may influence urban residents’ interactions with nature and equitable access to green spaces.
 
-*Note: These early visualizations are heuristic tools designed to guide future spatial modeling, field surveys, and community engagement rather than provide definitive conclusions.*
 <p style="font-size: 0.8em; color: #555; font-style: italic;">
 Note: These early visualizations are heuristic tools designed to guide future spatial modeling, field surveys, and community engagement rather than provide definitive conclusions.
 </p>
