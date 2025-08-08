@@ -19,7 +19,7 @@ This emerging project aims to investigate how extreme weather events and climate
 
 This exploratory mapping investigates how St. Louis residents engaged with nature through [iNaturalist](https://www.inaturalist.org/observations) community-generated observations before and after major weather disruptions.
 
-We focus on the [May 16, 2025 tornado](https://www.weather.gov/lsx/05_16_2025) as a case study of a significant climate disruption. Since iNaturalist data reflect both biodiversity presence and human observation patterns, analyzing changes in observation density, reported taxa, and observer locations provides insights into how climate events may influence urban residents’ interactions with nature and equitable access to green spaces.
+We focus on the [May 16, 2025 tornado](https://www.weather.gov/lsx/05_16_2025) as a case study of a significant weather disruption. Since iNaturalist data reflect both biodiversity presence and human observation patterns, analyzing changes in observation density, reported taxa, and observer locations provides insights into how climate events may influence urban residents’ interactions with nature and equitable access to green spaces.
 
 *Note: These early visualizations are heuristic tools designed to guide future spatial modeling, field surveys, and community engagement rather than provide definitive conclusions.*
 
