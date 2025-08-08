@@ -17,7 +17,11 @@ This emerging project aims to investigate how extreme weather events and climate
 
 ## Preliminary Exploration: iNaturalist Heatmaps
 
-This exploratory mapping investigates how St. Louis residents engaged with nature via [iNaturalist](https://www.inaturalist.org/observations) observations before and after major weather disruptions, focusing on the [May 16, 2025 tornado](https://www.weather.gov/lsx/05_16_2025) as a case study. Since iNaturalist records are community-generated, they reflect patterns of human activity and access to biodiversity. By analyzing changes in observation density, reported taxa, and observer locations, this work examines how climate disruptions shape urban residents’ interactions with nature and highlight issues of equitable access. See below for select visualizations. *Note: These early visualizations are intended as heuristic tools, not formal analysis, as a foundation for future spatial modeling and field work.*
+This exploratory mapping investigates how St. Louis residents engaged with nature through [iNaturalist](https://www.inaturalist.org/observations) community-generated observations before and after major weather disruptions.
+
+We focus on the [May 16, 2025 tornado](https://www.weather.gov/lsx/05_16_2025) as a case study of a significant climate disruption. Since iNaturalist data reflect both biodiversity presence and human observation patterns, analyzing changes in observation density, reported taxa, and observer locations provides insights into how climate events may influence urban residents’ interactions with nature and equitable access to green spaces.
+
+*Note: These early visualizations are heuristic tools designed to guide future spatial modeling, field surveys, and community engagement rather than provide definitive conclusions.*
 
 #### iNaturalist Observation Density in St. Louis: April 2025 (Pre-Tornado)
 
@@ -37,4 +41,4 @@ This exploratory mapping investigates how St. Louis residents engaged with natur
 
 ### Next Steps
 
-Future work will incorporate additional environmental, socioeconomic, and ecological data to assess how extreme weather events affect urban biodiversity and community resilience, with a focus on equitable access to nature. This project aims to support urban conservation initiatives that benefit both ecosystems and the communities that depend on them.
+Future work will integrate environmental, social, and ecological data to understand how extreme weather impacts urban wildlife and communities. Our goal is to guide climate resilience strategies that strengthen both ecosystems and the communities they support.
