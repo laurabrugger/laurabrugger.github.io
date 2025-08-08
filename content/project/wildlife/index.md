@@ -27,7 +27,7 @@ This exploratory mapping investigates how St. Louis residents engaged with natur
 
 <iframe src="/maps/heatmap_2025_05.html" width="100%" height="600" style="border:none;"></iframe>
 
-#### May 16, 2025 Tornado Path and iNaturalist Observations
+#### May iNaturalist Observations and May 16 Tornado Path
 
 <iframe src="/maps/may_2025_tornado_map.html" width="100%" height="600" style="border:none;"></iframe>
 
