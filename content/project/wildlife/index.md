@@ -15,8 +15,8 @@ This emerging project aims to investigate how extreme weather events and climate
 
 <!--more-->
 
-{{< figure src="coyote.jpg" title="Coyote in urban St. Louis" >}}
+{{< figure src="" title="Coyote in urban St. Louis" >}}
 
-{{< figure src="coyote.jpg" title="Coyote in urban St. Louis" >}}
+{{< figure src="" title="Coyote in urban St. Louis" >}}
 
-{{< figure src="coyote.jpg" title="Coyote in urban St. Louis" >}}
+{{< figure src="" title="Coyote in urban St. Louis" >}}
