@@ -5,7 +5,7 @@ external_link:
 draft: false
 tags:
 image: 
-  filename: "vote.jpg"
+  filename: "road-closed.jpg"
 
 ---
 
