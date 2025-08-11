@@ -5,7 +5,8 @@ external_link:
 draft: false
 tags:
 image: 
-  filename: "helene.jpg"
+  filename: "helene-nc.jpg"
+  caption: "*Image source: [Melissa Sue Gerrits/Getty Images](https://www.nytimes.com/2024/09/28/us/north-carolina-helene-asheville-shelby.html)*"
 
 ---
 
