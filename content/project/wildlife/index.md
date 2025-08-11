@@ -6,8 +6,8 @@ external_link:
 draft: false
 tags:
 image: 
-  filename: "coyote.jpg"
-  caption: "*Image source: [City of Fenton, Missouri](https://www.fentonmo.org/1170/Urban-Wildlife)*"
+  filename: "scarlettanager.jpg"
+  caption: "*Image source: [Columbia Daily Tribune](https://www.columbiatribune.com/story/entertainment/human-interest/2011/06/12/colorful-songful-seasonal-birds-flock/21481605007/)*"
 
 ---
 
