@@ -1,6 +1,6 @@
 ---
 title: "Climate-Related Disruptions to Election Infrastructure and Political Participation"
-date: 2025-07-01
+date: 2025-05-01
 external_link: 
 draft: false
 tags:
