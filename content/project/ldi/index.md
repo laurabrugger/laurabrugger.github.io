@@ -15,3 +15,5 @@ Study to investigate climate-driven disruptions to election access and resilienc
 <!--more-->
 
 This project applies spatial and statistical analysis to assess how severe weather and natural disasters disrupt election infrastructure and voter access, with a focus on impacts to marginalized communities. By quantifying these climate-driven disruptions, the research advances understanding of socio-spatial inequity and supports the development of resilience strategies that protect democratic participation amid increasing climate hazards. The findings will provide actionable insights for policymakers and community planners focused on climate adaptation and equity.
+
+Supported by Washington University’s [Here & Next Seed Grant Program](https://research.washu.edu/here-and-next-research-seed-grant-awards-spring-2025/).
