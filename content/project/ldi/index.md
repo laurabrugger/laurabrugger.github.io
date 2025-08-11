@@ -1,5 +1,5 @@
 ---
-title: "Democratic Infrastructure and Political Inequality After Disaster"
+title: "Climate-Related Disruptions to Election Infrastructure and Political Participation"
 date: 2025-07-01
 external_link: 
 draft: false
@@ -10,10 +10,8 @@ image:
 
 ---
 
-Study to investigate election infrastructure and administrative burden amid severe weather events. 
+Study to investigate climate-driven disruptions to election access and resilience.
 
 <!--more-->
 
-This project examines how severe weather events and natural disasters disrupt election infrastructure and administrative processes, potentially creating barriers to political participation and exacerbating existing inequalities. Using spatial and temporal data on polling locations, voter turnout, and demographic factors, the work aims to reveal how these disruptions affect access to voting and civic engagement.
-
-By identifying spatial patterns of political inequality linked to disaster exposure, this research supports developing resilience strategies that maintain democratic participation and equitable access to election infrastructure amid climate-related crises.
+This project applies spatial and statistical analysis to assess how severe weather and natural disasters disrupt election infrastructure and voter access, with a focus on impacts to marginalized communities. By quantifying these climate-driven disruptions, the research advances understanding of socio-spatial inequity and supports the development of resilience strategies that protect democratic participation amid increasing climate hazards. The findings provide actionable insights for policymakers and community planners focused on climate adaptation and equity.
