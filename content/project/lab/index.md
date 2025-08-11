@@ -6,6 +6,7 @@ draft: false
 tags:
 image: 
   filename: "road-closed.jpg"
+  caption: "*Image source: NCDOT via [NC Newsline](https://ncnewsline.com/briefs/helene-road-bridge-repair-cost-damage-900m-ncdot/)*"
 
 ---
 
