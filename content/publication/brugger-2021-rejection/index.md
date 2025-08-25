@@ -1,7 +1,7 @@
 ---
 title: "Rejection-identification: An examination of group-level and individual-level discrimination among Hispanic immigrants"
 authors:
-  - Laura J Brugger
+  - Brugger, L.
 date: "2021-07-26"
 publishDate: "2025-07-08T22:00:27.073507Z"
 publication_types:
