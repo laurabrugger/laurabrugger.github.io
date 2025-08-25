@@ -2,10 +2,8 @@
 title: "A Perfect Storm: Spatial Heterogeneity in the Relationships Between Natural Disasters, Social Vulnerability, Resilience, and Voter Turnout"
 
 authors:
-  - Laura Brugger
-  - Pedro Spindler-Ruiz
-  - Ness Sandoval
-
+  - Brugger, L., Spindler-Ruiz, P. & Sandoval, N.
+    
 author_notes:
   - "Equal contribution"
   - "Equal contribution"
