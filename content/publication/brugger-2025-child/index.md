@@ -2,7 +2,7 @@
 title: 'Child tax credit utilization in immigrant households: a focus on child investment
   and college funds'
 authors:
-- L., Bellisle, D., Maag, E., Udani, A., Roll, S., Hamilton, L., & Lee, J. Brugger
+- Brugger, L., Bellisle, D., Maag, E., Udani, A., Roll, S., Hamilton, L., & Lee, J.
 date: '2025-08-05'
 publishDate: '2025-08-05T14:51:45.008747Z'
 publication_types:
