@@ -1,15 +1,7 @@
 ---
 title: 'In Her Hands: A Guaranteed Income Initiative. Final Report'
 authors:
-- L. Brugger
-- S. Davis
-- D. Elliot
-- L. Hamilton
-- S. Roll
-- L. Rollins
-- S. Smith
-- A. Quick
-- N. Zewde
+- Brugger, L., Davis, S., Elliot, D., Hamilton, L., Roll, S., Rollins, L., Smith, S., Quick, A., & Zewde, N.
 date: '2025-01-01'
 publishDate: '2025-07-31T16:58:50.961834Z'
 publication_types:
