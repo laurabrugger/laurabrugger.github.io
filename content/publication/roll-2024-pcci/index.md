@@ -2,9 +2,7 @@
 title: Project Community Connections, Inc. Direct Cash Transfer Project. Cohort One
   Report
 authors:
-- S. Roll
-- L. Hamilton
-- L. Brugger
+- Roll, S., Hamilton, L. & Brugger, L.
 date: '2024-05-01'
 publishDate: '2025-07-31T16:58:50.974829Z'
 publication_types:
