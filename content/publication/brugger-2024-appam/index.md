@@ -2,10 +2,7 @@
 title: "Spatial Variation in Disaster Risk and Voter Turnout: Insights from Los Angeles, Miami, and San Antonio"
 
 authors:
-  - Laura Brugger
-  - Pedro Spindler-Ruiz
-  - Ness Sandoval
-
+  - Brugger, L., Spindler-Ruiz, P., & Sandoval, N. 
 date: "2024-11-21"
 
 publishDate: "2025-07-10T00:17:27.579171Z"
