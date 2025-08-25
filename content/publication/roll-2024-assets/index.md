@@ -2,13 +2,7 @@
 title: Does Guaranteed Income Build Assets for Black Women? Evidence from the In Her
   Hands Program
 authors:
-- S. Roll
-- D. Elliot
-- S. Smith
-- A. Quick
-- L. Brugger
-- S. Davis
-- L. Hamilton
+- Roll, S., Elliot, D., Smith, S., Quick, A., Brugger, L., Davis, S., & Hamilton, L.
 date: '2024-01-01'
 publishDate: '2025-07-31T16:58:50.968379Z'
 publication_types:
