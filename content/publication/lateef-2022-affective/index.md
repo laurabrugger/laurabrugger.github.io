@@ -1,11 +1,7 @@
 ---
 title: "Affective orientation and school persistence among African American youth: Implications for Afrocentric youth research and practice"
 authors:
-  - Husain Lateef
-  - Laura Brugger
-  - Donte Boyd
-  - Adrian Gale
-  - Ed-Dee Williams
+  - Lateef, H., Brugger, L., Boyd, D., Gale, A., & Williams, E.-D.
 date: "2022-01-31"
 publishDate: "2025-07-08T22:00:27.088930Z"
 publication_types:
