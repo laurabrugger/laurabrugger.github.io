@@ -2,7 +2,7 @@
 title: How are American families using their Child Tax Credit payments? Evidence from
   Census Data
 authors:
-- S., Chun, Y., Brugger, L., & Hamilton, L. Roll
+- Roll, S., Chun, Y., Brugger, L., & Hamilton, L. 
 date: '2021-01-01'
 publishDate: '2025-08-25T18:58:42.526601Z'
 publication_types:
