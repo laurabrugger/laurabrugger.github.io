@@ -1,13 +1,7 @@
 ---
 title: "Goal orientation and adolescent social competence: Ubuntu as a mediator among Black American adolescents"
 authors:
-  - Husain Lateef
-  - Dominique Horton
-  - Laura Brugger
-  - Mansoo Yu
-  - Francine C Jellesma
-  - Baffour Boaten Boahen-Boaten
-  - Ellie Borgstrom
+  - Lateef, H., Horton, D., Brugger, L., Yu, M., Jellesma, F. C., Boahen-Boaten, B. B., & Borgstrom, E.
 date: "2023-02-27"
 publishDate: "2025-07-08T22:00:27.095093Z"
 publication_types:
