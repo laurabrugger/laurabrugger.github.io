@@ -1,11 +1,7 @@
 ---
 title: "Which Side (of the Balance Sheet) Are You On? Household Financial Resources and Participation in the 2020 Protests"
 authors:
-  - Selina Miller
-  - Stephen Roll
-  - C Taylor Brown
-  - Laura Brugger
-  - Michal Grinstein-Weiss
+  - Miller, S., Roll, S., Brown, C. T., Brugger, L., & Grinstein-Weiss, M.
 date: "2023-12-01"
 publishDate: "2025-07-08T22:00:27.107551Z"
 publication_types:
