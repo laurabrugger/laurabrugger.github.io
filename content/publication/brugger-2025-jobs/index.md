@@ -2,7 +2,7 @@
 title: What Jobs Offer (and Don’t Offer) Benefits to Low-Wage Workers? Evidence from
   a Nationally Representative Survey
 authors:
-- L. Brugger, L., Despard, M., Miller, S., & Roll, S. 
+- Brugger, L., Despard, M., Miller, S., & Roll, S. 
 date: '2025-06-29'
 publishDate: '2025-07-31T16:58:50.951772Z'
 publication_types:
