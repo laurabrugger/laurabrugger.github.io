@@ -1,15 +1,7 @@
 ---
 title: 'In Her Hands: A Guaranteed Income Initiative. First Year Research Summary'
 authors:
-- L. Brugger
-- S. Davis
-- D. Elliott
-- L. Hamilton
-- A. Quick
-- S. Roll
-- L. Rollins
-- S. Smith
-- N. Zewde
+- Brugger, L., Davis, S., Elliott, D., Hamilton, L., Quick, A., Roll, S., Rollins, L., Smith, S., & Zewde, N.
 date: '2024-02-23'
 publishDate: '2025-07-31T16:58:50.980883Z'
 publication_types:
