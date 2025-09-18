@@ -14,7 +14,7 @@ sections:
       text: ""
       button:
         text: Download CV
-        url: https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-2025.08.20.pdf
+        url: https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-20250916.pdf
     design:
       css_class: dark
       background:
