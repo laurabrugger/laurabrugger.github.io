@@ -10,9 +10,6 @@ main:
   - name: Publications
     url: /#publications
     weight: 11
- - name: Policy Briefs
-    url: briefs
-    weight: 11
   - name: Projects
     url: projects/
     weight: 12
