@@ -32,7 +32,7 @@ sections:
       title: '🌍 My Research'
       subtitle: ''
       text: |-
-        I am a socio-environmental scientist focused on the dynamic relationship between people and the planet. My work examines how human well-being and environmental health can be mutually reinforcing, especially in the face of climate change. I use rigorous, actionable research to develop equitable, science-based strategies that help both communities and ecosystems thrive.
+        I am a socio-environmental scientist focused on the dynamic relationship between people and the planet. My early work examined how disasters and social vulnerability influence civic participation and resilience. More recently, I have expanded into biodiversity and public health, with projects on urban wildlife and tropical forest conservation. Across these strands, I translate rigorous research into actionable, equitable strategies that help communities and ecosystems thrive, especially in the face of climate change.
     design:
       columns: '1'
 
