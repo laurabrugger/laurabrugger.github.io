@@ -7,8 +7,11 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Publications (Peer-Reviewed)
+  - name: Publications
     url: /#publications
+    weight: 11
+ - name: Policy Briefs
+    url: /#briefs
     weight: 11
   - name: Projects
     url: projects/
