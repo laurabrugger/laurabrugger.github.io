@@ -49,13 +49,13 @@ sections:
       columns: 2
 
   - block: collection
-    id: publication
+    id: papers
     content:
       title: Recent Publications
       text: ""
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
         author: ""
         category: ""
