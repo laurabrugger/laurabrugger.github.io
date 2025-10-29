@@ -8,3 +8,8 @@ image:
   filename: "trump-votes2.jpg"
 ---
 
+ArcGIS StoryMaps | Spatial analysis + stakeholder-focused storytelling
+
+<!--more-->
+
+{{< iframe src="https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a" width="100%" height="700px">}}
