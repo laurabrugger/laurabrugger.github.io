@@ -2,7 +2,7 @@
 title: "Midwest Climate Collaborative Green Infrastructure Group"
 date: 2025-02-01
 external_link: 
-draft: false
+draft: true
 tags:
 image: 
   filename: "mcc.jpg"
