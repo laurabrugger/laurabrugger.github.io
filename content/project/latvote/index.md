@@ -12,7 +12,4 @@ ArcGIS StoryMaps | Spatial analysis + stakeholder-focused storytelling
 
 <!--more-->
 
-{{< rawhtml >}}
-<iframe src="https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a?embed"
-style="border:none;width:100%;height:80vh;" allowfullscreen></iframe>
-{{< /rawhtml >}}
+[Beyond the Monolith: A story map of Latino Voting Patterns in the 2020 US Presidential Election Myth]((https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a)
