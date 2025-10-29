@@ -5,6 +5,6 @@ external_link:
 draft: false
 tags:
 image: 
-  filename: "trump-votes.png"
+  filename: "trump-votes2.jpg"
 ---
 
