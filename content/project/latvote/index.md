@@ -6,11 +6,14 @@ external_link:
 draft: false
 tags:
 image: 
-  filename: ""
+  filename: "trump-votes.png"
 ---
 
 ArcGIS StoryMaps | Spatial analysis + stakeholder-focused storytelling
 
-<!--more-->
-https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a 
-This project examines 
+{{< rawhtml >}}
+<iframe src="https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a"
+width="100%" height="700px" style="border:none;" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+This project examines socio-spatial variation in Latino voting patterns and demonstrates how interactive geospatial tools can communicate complex spatial information to non-technical audiences.
