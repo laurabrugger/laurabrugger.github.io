@@ -12,8 +12,12 @@ ArcGIS StoryMaps | Spatial analysis + stakeholder-focused storytelling
 
 <!--more-->
 
-[Beyond the Monolith: A story map of Latino Voting Patterns in the 2020 US Presidential Election](https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a)
+**Spatial Storytelling: Mapping Variation in Latino Voting Patterns**
+
+Interactive ArcGIS StoryMap designed to communicate spatial patterns in voting outcomes to non-technical audiences. Demonstrates geospatial data integration, narrative visualization, and workflow documentation — capabilities I apply broadly across data systems for environmental and restoration contexts.
 
 <iframe src="https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a?embed"
 style="border:none;width:100%;height:80vh;" allowfullscreen></iframe>
+
+[View full StoryMap →](https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a)
 
