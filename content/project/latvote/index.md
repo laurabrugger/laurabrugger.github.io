@@ -5,7 +5,7 @@ external_link:
 draft: false
 tags:
 image: 
-  filename: "trump-votes2.jpg"
+  filename: "countours.jpg"
 ---
 
 ArcGIS StoryMaps | Spatial analysis + stakeholder-focused storytelling
