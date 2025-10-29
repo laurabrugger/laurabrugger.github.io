@@ -14,7 +14,7 @@ ArcGIS StoryMaps | Spatial analysis + stakeholder-focused storytelling
 
 **Spatial Storytelling: Mapping Variation in Latino Voting Patterns**
 
-Interactive ArcGIS StoryMap designed to communicate spatial patterns in voting outcomes to non-technical audiences. Demonstrates geospatial data integration, narrative visualization, and workflow documentation — capabilities I apply broadly across data systems for environmental and restoration contexts.
+Interactive ArcGIS StoryMap designed to communicate spatial patterns in voting outcomes to non-technical audiences. Demonstrates geospatial data integration, narrative visualization, and workflow documentation.
 
 <iframe src="https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a?embed"
 style="border:none;width:100%;height:80vh;" allowfullscreen></iframe>
