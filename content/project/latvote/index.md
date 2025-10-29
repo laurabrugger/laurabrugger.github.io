@@ -12,4 +12,7 @@ ArcGIS StoryMaps | Spatial analysis + stakeholder-focused storytelling
 
 <!--more-->
 
-{{< iframe src="https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a" width="100%" height="700px">}}
+{{< rawhtml >}}
+<iframe src="https://storymaps.arcgis.com/stories/8e40f996604945cf9eaf2bee5950600a?embed"
+style="border:none;width:100%;height:80vh;" allowfullscreen></iframe>
+{{< /rawhtml >}}
