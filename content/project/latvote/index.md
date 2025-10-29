@@ -5,7 +5,7 @@ external_link:
 draft: false
 tags:
 image: 
-  filename: "countours.jpg"
+  filename: "countour.jpg"
 ---
 
 ArcGIS StoryMaps | Spatial analysis + stakeholder-focused storytelling
