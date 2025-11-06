@@ -18,7 +18,7 @@ featured: true
 abstract: |
   How do natural disasters shape political participation? This paper examines the impact of Hurricane Helene—a devastating storm that struck North Carolina just weeks before the 2024 U.S. presidential election—on voter turnout. Drawing on a resource-based theory of political participation, we argue that natural disasters constrain the time, money, and civic skills necessary for engagement, leading to involuntary political disengagement. Using individual-level data from the North Carolina L2 Voter File, we show that living in a hurricane-affected county reduced turnout by roughly four percentage points, even in a high-salience presidential contest. The depressive effect was consistent across racial groups and voter types but concentrated among third-party registrants, while Democrats and Republicans remained more resilient. These results reveal that natural disasters can impose democratic costs by disrupting citizens’ capacity to participate and highlight partisanship as a critical participatory driver amid environmental and social disruption.
 summary: >
-  This study examines theimpact of Hurricane Helene on voter turnout in the 2024 U.S. presidential election. 
+  This study examines the impact of Hurricane Helene on voter turnout in the 2024 U.S. presidential election. 
 
 featured: true
 
