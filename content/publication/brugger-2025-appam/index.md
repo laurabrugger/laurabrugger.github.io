@@ -35,4 +35,5 @@ image:
   caption: "Source Photos: Appalachian Today"
   focal_point: ""
   preview_only: false
+  
 ---
