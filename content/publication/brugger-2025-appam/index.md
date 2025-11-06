@@ -1,4 +1,5 @@
 ---
+
 title: "Hurricane Helene and the 2024 Election: Geospatial Analysis of Electoral Disruptions
   in Hurricane-Affected States"
 
