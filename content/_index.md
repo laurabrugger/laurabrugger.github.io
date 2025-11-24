@@ -24,13 +24,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
-  - block: cta-button-list
-    content:
-      buttons:
-        - text: "Resume (PDF)"
-          url: /files/brugger-resume-gen-20251120.pdf
-    design: {}
     
   - block: markdown
     content:
