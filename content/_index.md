@@ -15,6 +15,9 @@ sections:
       button:
         text: Academic CV
         url: https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-brown-20251101.pdf
+      button:
+        text: Resume
+        url: /files/brugger-resume-gen-20251120.pdf
     
     design:
       css_class: dark
@@ -27,15 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
-  - block: cta-button-list
-    content:
-      title: ""
-      text: ""
-      buttons:
-        - text: "Resume"
-          url: /files/brugger-resume-gen-20251120.pdf
-    design: {}
 
   - block: markdown
     content:
