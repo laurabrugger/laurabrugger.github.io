@@ -28,6 +28,17 @@ sections:
           position: center
           parallax: false
 
+    - block: markdown
+    content:
+      title: ""
+      text: |-
+        **Downloads**
+
+        - [Academic CV](https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-brown-20251101.pdf)  
+        - [2-page Resume](/files/brugger-resume-2025.pdf)
+    design:
+      columns: "1"
+
   - block: markdown
     content:
       title: '🌍 My Research'
