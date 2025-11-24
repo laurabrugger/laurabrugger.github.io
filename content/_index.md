@@ -28,7 +28,7 @@ sections:
           position: center
           parallax: false
 
-    - block: markdown
+  - block: markdown
     content:
       title: ""
       text: |-
