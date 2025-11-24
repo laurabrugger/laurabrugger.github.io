@@ -12,11 +12,8 @@ sections:
     content:
       username: admin
       text: ""
-      button_left:
+      button:
         text: Academic CV
-        url: https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-brown-20251101.pdf
-      button_right:
-        text: Resume (2-page)
         url: https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-brown-20251101.pdf
     
     design:
