@@ -95,7 +95,7 @@ work:
 
 Dr. Laura Brugger (she/her) is a researcher at Washington University in St. Louis. Her work examines the interconnectedness of natural and human systems in the context of climate change, focusing on socio-ecological resilience, adaptation, and the integration of climate and conservation policy. She employs spatial analysis to inform equitable, community-driven strategies that address climate risks and promote environmental justice. Most recently, Laura has investigated spatial disparities in climate vulnerability and resilience, as well as how disasters and environmental risks affect communities and democratic participation. She also serves on the board of the [Missouri Coalition for the Environment](https://moenvironment.org/), supporting the organization’s mission to advance clean water, clean air, clean energy, and a healthy environment in Missouri.
 
-<i class="fa-solid fa-file-pdf"></i>&nbsp;[Academic CV](https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-brown-20251101.pdf) | <i class="fa-solid fa-file-pdf"></i>&nbsp;[Resume](/files/brugger-resume-gen-20251120.pdf)
+{{< icon name="hero/document-text" >}}&nbsp;[Academic CV](https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-brown-20251101.pdf) | {{< icon name="hero/document-text" >}}&nbsp;[Resume](/files/brugger-resume-gen-20251120.pdf)
 
 
 
