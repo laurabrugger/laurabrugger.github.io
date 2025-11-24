@@ -34,7 +34,7 @@ sections:
       text: ""
       buttons:
         - text: "Resume"
-          url: /files/brugger-resume-2025.pdf
+          url: /files/brugger-resume-gen-20251120.pdf
     design: {}
 
   - block: markdown
