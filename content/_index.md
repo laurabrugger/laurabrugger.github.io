@@ -13,9 +13,8 @@ sections:
       username: admin
       text: ""
       button:
-        - text: "📄 Academic CV"
-          url: https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-brown-20251101.pdf
-    
+        text: "📄 Academic CV"
+        url: https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-brown-20251101.pdf
     design:
       css_class: dark
       background:
@@ -28,6 +27,13 @@ sections:
           position: center
           parallax: false
 
+  - block: cta-button-list
+    content:
+      buttons:
+        - text: "🧩 2-page Resume (PDF)"
+          url: /files/brugger-resume-gen-20251120.pdf
+    design: {}
+    
   - block: markdown
     content:
       title: '🌍 My Research'
