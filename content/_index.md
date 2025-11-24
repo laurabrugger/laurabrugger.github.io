@@ -12,11 +12,9 @@ sections:
     content:
       username: admin
       text: ""
-      actions:
+      button:
         - text: "📄 Academic CV"
           url: https://brownschool.washu.edu/app/uploads/2024/07/brugger-cv-brown-20251101.pdf
-        - text: "🧩 2-page Resume"
-          url: /files/brugger-resume-gen-20251120.pdf
     
     design:
       css_class: dark
