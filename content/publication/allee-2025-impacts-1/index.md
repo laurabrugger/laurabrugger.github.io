@@ -18,11 +18,8 @@ abstract: |
   transfers that people can use in whatever way best
   meets their individual economic circumstances.
   Evidence suggests that GBI can improve food
-  insecurity,1
-  increase savings,2
-  reduce debt,2
-  and
-  positively impact subjective financial well-being.1
+  insecurity, increase savings, reduce debt,
+  and positively impact subjective financial well-being.
   This brief presents findings about how the City of St.
   Louis GBI Pilot Program impacted the economic
   security of participants, including their experience
@@ -31,6 +28,6 @@ abstract: |
   Briefs 2 and 3 focus on credit health and quality of
   life, respectively.
 
-url_pdf: "https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1985&context=csd_research" 
+url_link: "https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1985&context=csd_research" 
 
 ---
