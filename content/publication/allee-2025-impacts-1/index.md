@@ -6,7 +6,8 @@ date: '2025-12-08'
 publishDate: '2025-12-09T22:41:14.977099Z'
 publication_types:
 - Research Brief
-abstract: | Guaranteed Basic Income (GBI)
+abstract: |
+Guaranteed Basic Income (GBI)
 programs aim to offset the effects of
 poverty in low-income families,
 provide reliable income streams that
