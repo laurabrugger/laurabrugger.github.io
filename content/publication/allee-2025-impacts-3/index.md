@@ -19,6 +19,6 @@ abstract: |
   three briefs. Briefs 1 and 2 focus on economic
   security and credit health, respectively.
 
-url_link: https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1983&context=csd_research 
+url_pdf: https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1983&context=csd_research 
 
 ---
