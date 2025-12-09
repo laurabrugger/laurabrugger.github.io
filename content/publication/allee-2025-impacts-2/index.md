@@ -14,6 +14,6 @@ abstract: |
   second in a series of three briefs. Briefs 1 and 3 focus
   on economic security and quality of life, respectively.
   
-url_link: https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1984&context=csd_research
+url_pdf: https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1984&context=csd_research
 
 ---
