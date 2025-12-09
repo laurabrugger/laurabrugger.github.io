@@ -7,5 +7,5 @@ publishDate: '2025-12-09T22:41:14.977099Z'
 publication_types:
 - Research Brief
 abstract:
-url_pdf
+url_pdf: 
 ---
