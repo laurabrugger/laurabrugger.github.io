@@ -28,6 +28,6 @@ abstract: |
   Briefs 2 and 3 focus on credit health and quality of
   life, respectively.
 
-url_link: "https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1985&context=csd_research" 
+url_pdf: "https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1985&context=csd_research" 
 
 ---
