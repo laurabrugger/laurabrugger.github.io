@@ -1,19 +1,11 @@
 ---
 title: The Impacts of the St. Louis Guaranteed Basic Income Program on Economic Security
 authors:
-- Hannah Allee
-- Grace Anderson
-- Rachel Barth
-- Laura Brugger
-- Meihsi Chiang
-- Alex Dobill
-- Leah Hamilton
-- Ashley Moore
-- Liz Rolf
-- Stephen Roll
-- ' others'
-date: '2025-01-01'
+- Allee, H.; Anderson, G.; Barth, R.; Brugger, L.; Chiang, M.; Dobill, A.; Hamilton, L.; Moore, A.; Rolf, L.; Roll, S.; Others
+date: '2025-12-08'
 publishDate: '2025-12-09T22:41:14.977099Z'
 publication_types:
-- article-journal
+- Research Brief
+abstract:
+url_pdf
 ---
