@@ -24,7 +24,7 @@ role: Climate & Socio-Environmental Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Spatial Analysis, Climate Risk & Resilience | Ecosystems & Applied Research
+  - name: ""
     url: ""
 
 # Social network links
@@ -40,9 +40,9 @@ profiles:
     url: https://orcid.org/0000-0003-4567-8467
 
 interests:
-  - Equitable Climate Policy
-  - Socio–Ecological Resilience
-  - Community-Based Science
+  - Climate Risk & Resilience
+  - Ecosystems & Nature-Based Solutions
+  - Spatial Analysis & Applied Research
 
 
 education:
