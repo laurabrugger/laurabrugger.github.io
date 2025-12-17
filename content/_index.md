@@ -30,7 +30,9 @@ sections:
       title: '🌍 My Research'
       subtitle: ''
       text: |-
-        My work focuses on understanding climate risk and environmental change across coupled human–environment systems, with an emphasis on producing applied, decision-relevant insights. I use spatial analysis, GIS, and climate-risk modeling to examine how climate stressors shape ecosystems, environmental exposure, and resilience. My early research examined disaster risk and its implications for resilience and public decision-making. More recent and ongoing work spans ecosystem-focused applications, including biodiversity, urban ecology, and nature-based solutions, with projects ranging from urban wildlife and green infrastructure to climate-relevant land and forest systems. Across these efforts, I collaborate with interdisciplinary teams and partners to translate rigorous analysis into practical outputs—maps, briefs, and syntheses—that support climate adaptation, conservation planning, and ecosystem resilience in a changing climate.
+        I study how people and the planet are shaped by climate and environmental change. My early work focused on disasters and environmental risk; more recent work centers on ecosystems, biodiversity, and nature-based solutions. Across this work, I use spatial analysis and climate-risk modeling to support applied research for climate adaptation and conservation.
+
+
 
     design:
       columns: '1'
