@@ -41,7 +41,7 @@ profiles:
 
 interests:
   - Climate Risk & Resilience
-  - Ecosystems & Nature-Based Solutions
+  - Ecosystems & Climate Solutions
   - Spatial Analysis & Applied Research
 
 
