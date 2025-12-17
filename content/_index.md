@@ -30,7 +30,7 @@ sections:
       title: '🌍 My Research'
       subtitle: ''
       text: |-
-        I study how people and the planet are shaped by climate and environmental change. My early work focused on disasters and environmental risk; more recent work centers on ecosystems, biodiversity, and nature-based solutions. Across this work, I use spatial analysis and climate-risk modeling to support applied research for climate adaptation and conservation.
+        I’m interested in research that sits at the intersection of people and the planet, and that is useful in the face of real climate and environmental decisions. My early work grew out of questions about disasters and climate risk; over time, my focus has expanded toward ecosystems, biodiversity, and nature-based climate solutions. Across projects, I prioritize applied research that combines rigorous analysis with clear communication, guided by a desire to develop practical, innovative approaches to addressing climate challenges. 
 
 
 
