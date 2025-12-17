@@ -30,7 +30,8 @@ sections:
       title: '🌍 My Research'
       subtitle: ''
       text: |-
-        I am a socio-environmental scientist focused on the dynamic relationship between people and the planet. My early work examined how disasters and social vulnerability influence civic participation and resilience. I have since expanded into biodiversity and public health, partnering with scientists and communities on projects ranging from urban wildlife to tropical forest conservation. Across these strands, I use spatial analysis and climate-hazards modeling to translate rigorous research into actionable strategies that support equitable adaptation, environmental justice, and thriving ecosystems in a changing climate.
+        My work focuses on understanding climate risk and environmental change across coupled human–environment systems, with an emphasis on producing applied, decision-relevant insights. I use spatial analysis, GIS, and climate-risk modeling to examine how climate stressors shape ecosystems, environmental exposure, and resilience. My early research examined disaster risk and its implications for resilience and public decision-making. More recent and ongoing work spans ecosystem-focused applications, including biodiversity, urban ecology, and nature-based solutions, with projects ranging from urban wildlife and green infrastructure to climate-relevant land and forest systems. Across these efforts, I collaborate with interdisciplinary teams and partners to translate rigorous analysis into practical outputs—maps, briefs, and syntheses—that support climate adaptation, conservation planning, and ecosystem resilience in a changing climate.
+
     design:
       columns: '1'
 
