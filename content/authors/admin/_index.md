@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Research Professor
+role: Climate & Socio-Environmental Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Washington University in St. Louis
+  - name: Spatial Analysis, Climate Risk & Resilience | Ecosystems & Applied Research
     url: ""
 
 # Social network links
