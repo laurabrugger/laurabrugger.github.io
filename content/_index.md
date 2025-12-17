@@ -27,7 +27,7 @@ sections:
     
   - block: markdown
     content:
-      title: '🌍 My Research'
+      title: '🌍 Research Focus'
       subtitle: ''
       text: |-
         I’m interested in research that sits at the intersection of people and the planet, and that is useful in the face of real climate and environmental decisions. My early work grew out of questions about disasters and climate risk; over time, my focus has expanded toward ecosystems, biodiversity, and nature-based climate solutions. Across projects, I focus on applied research that combines rigorous analysis with clear communication, motivated by a desire to help develop practical, innovative approaches to addressing climate challenges.
