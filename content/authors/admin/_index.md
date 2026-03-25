@@ -57,10 +57,16 @@ education:
     date_end: 2010-12-20
  
 work:
+  - position: Conservation Data & Policy Advisor
+    company_name: The Nature Conservancy
+    date_start: 2026-03-01
+    date_end: ""
+    
   - position: Socio-Environmental Researcher & Policy Analyst | Assistant Research Professor
     company_name: Washington University in St. Louis
     date_start: 2024-07-01
-    date_end: ""
+    date_end: 2026-02-28
+    
   - position: Senior Data Analyst
     company_name: Social Policy Institute, Washington University in St. Louis
     company_url: ""
@@ -93,7 +99,7 @@ work:
 
 ## About My Work
 
-Dr. Laura Brugger (she/her) is a socio-environmental researcher and policy analyst at Washington University in St. Louis. Her work focuses on understanding how climate and environmental change affect ecosystems and communities, and how rigorous, data-driven analysis can inform practical decisions under climate stress. She uses spatial analysis, GIS, and climate-risk modeling to integrate environmental and social data and produce decision-relevant insights that support climate adaptation, conservation, and resilience planning. Recent projects examine disaster risk, environmental exposure, and ecosystem resilience, with applications spanning climate risk assessment and nature-based solutions. Laura leads interdisciplinary research initiatives and collaborates with government and nonprofit partners to translate complex analyses into applied outputs, including maps, briefs, and peer-reviewed publications. She also serves on the Board of the [Missouri Coalition for the Environment](https://moenvironment.org/), supporting advocacy for clean water, clean air, clean energy, and a healthy environment in Missouri.
+Dr. Laura Brugger (she/her) is a socio-environmental researcher and policy analyst, and is the Conservation Data & Policy Advisor at the Nature Conservancy. Her work focuses on understanding how climate and environmental change affect ecosystems and communities, and how rigorous, data-driven analysis can inform practical decisions under climate stress. She uses spatial analysis, GIS, and climate-risk modeling to integrate environmental and social data and produce decision-relevant insights that support climate adaptation, conservation, and resilience planning. Recent projects examine disaster risk, environmental exposure, and ecosystem resilience, with applications spanning climate risk assessment and nature-based solutions. Laura leads interdisciplinary research initiatives and collaborates with government and nonprofit partners to translate complex analyses into applied outputs, including maps, briefs, and peer-reviewed publications. She also serves on the Board of the [Missouri Coalition for the Environment](https://moenvironment.org/), supporting advocacy for clean water, clean air, clean energy, and a healthy environment in Missouri.
 
 
 {{< icon name="hero/document-text" >}}&nbsp;<a href="/files/brugger-cv.pdf"  target="_blank">Academic CV</a> | {{< icon name="hero/document-text" >}}&nbsp;<a href="/files/brugger-resume.pdf" target="_blank">Resume</a>
