@@ -30,7 +30,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: "mailto:laura.brugger@wustl.edu"
+    url: "mailto:laura.brugger37@gmail.com"
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lbrugger2/
@@ -102,7 +102,7 @@ work:
 Dr. Laura Brugger (she/her) is a socio-environmental researcher and policy analyst, and is the Conservation Data & Policy Advisor at the Nature Conservancy. Her work focuses on understanding how climate and environmental change affect ecosystems and communities, and how rigorous, data-driven analysis can inform practical decisions under climate stress. She uses spatial analysis, GIS, and climate-risk modeling to integrate environmental and social data and produce decision-relevant insights that support climate adaptation, conservation, and resilience planning. Recent projects examine disaster risk, environmental exposure, and ecosystem resilience, with applications spanning climate risk assessment and nature-based solutions. Laura leads interdisciplinary research initiatives and collaborates with government and nonprofit partners to translate complex analyses into applied outputs, including maps, briefs, and peer-reviewed publications. She also serves on the Board of the [Missouri Coalition for the Environment](https://moenvironment.org/), supporting advocacy for clean water, clean air, clean energy, and a healthy environment in Missouri.
 
 
-{{< icon name="hero/document-text" >}}&nbsp;<a href="/files/brugger-cv.pdf"  target="_blank">Academic CV</a> | {{< icon name="hero/document-text" >}}&nbsp;<a href="/files/brugger-resume.pdf" target="_blank">Resume</a>
+{{< icon name="hero/document-text" >}}&nbsp;<a href="/files/brugger-cv.pdf"  target="_blank">CV</a> | {{< icon name="hero/document-text" >}}&nbsp;<a href="/files/brugger-resume.pdf" target="_blank">Resume</a>
 
 
 
