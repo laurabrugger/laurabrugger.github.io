@@ -28,7 +28,9 @@ that treatment effects for food security and meeting dietary healthfulness
 needs grew between the first and second years of the program. These
 findings suggest that guaranteed income programs can enhance food
 security and nutrition, addressing racial economic and health disparities.
-url_pdf: https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2025.00613 
+
+url_pdf: 
+  https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2025.00613 
   
   
 ---
