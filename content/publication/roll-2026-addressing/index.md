@@ -12,5 +12,5 @@ publication: '*Health Affairs*'
 doi: 10.1377/hlthaff.2025.00613
 abstract: |
 url_pdf:
-  https://trebuchet.public.springernature.app/get_content/8c924bc6-b085-4202-b3eb-3f16e733a5f7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250805&utm_content=10.1007/s43546-025-00871-2
+  https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2025.00613
 ---
